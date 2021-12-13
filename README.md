@@ -9,7 +9,7 @@
 
 <a href="#"><img align="right" height="auto" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"  width="350px"/></a>
 
-<h2>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm akram </h1> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
+<h2>Hi <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> , I'm akram </h1> 
 
 <p>💻 I'm an Web Dev enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. I'm interested in Web Devlopment, Machine Learning & DevOps & I enjoy learning new things & stuff as well as I'm a Frontend Devloper with experience building Dynamic & Static Web pages. I am always interested in learning the answers to how, why, and what relates to the Technologies around me.</p>
 
