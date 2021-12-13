@@ -27,8 +27,10 @@
 - 📫 How to reach me **akramttello@gmail.com**
 
 - 💬 Ask me about ... Anything 
-
-
+### Find me on Linkedin:
+<p align="left">
+<a href = "https://www.linkedin.com/in/akramtello/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
 ## 🚀 Languages and Tools:
 
@@ -58,49 +60,24 @@
 
 <br/>
 
-## 📈 Stats
-
-
-## ⚡ Watch my contribution graph!
+## ⚡ Watch my Github Stats 📈 and contribution graph!
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akram-tello&label=Profile%20views&color=0e75b6&style=flat" alt="akram-tello" /> </p>
-
-[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=akram-tello&theme=xcode)](https://git.io/akram-tello)
-
-
-## 📈 Stats
-
-  <br/>
-    <a href="#"><img alt="akram tello's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akram-tello&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="left"> <img alt="akram tello's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akram-tello&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
+<a href="#"><img alt="akram tello's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akram-tello&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="#"><img alt="akram tello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram-tello&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
-<br/>
-
-<a href="#"><img alt="akram tello's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akram-tello&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=akram-tello&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=akram-tello">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/akram-tello?tab=followers"><img src="https://img.shields.io/github/followers/akram-tello?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--
 **akram-tello/akram-tello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
