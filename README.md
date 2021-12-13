@@ -1,13 +1,4 @@
-
-<!-- ## ⚡ More about my Coding Life :
-
-
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e676966](https://user-images.githubusercontent.com/85782825/137878929-78f23f18-1d13-4f53-9a5e-88431b0f65a3.gif)
- -->
-
-
-
-<a href="#"><img align="right" height="auto" width="250px" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"/></a>
+<!-- <a href="#"><img align="right" height="auto" width="250px" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"/></a> -->
 
 <h2>Hi <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="75" /> , I'm akram! </h1> 
 
@@ -33,8 +24,6 @@
 </p>
 
 ## 🚀 Languages and Tools:
-
-<!-- ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif) -->
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -79,17 +68,5 @@
 </a>
 <a href="https://github.com/akram-tello?tab=followers"><img src="https://img.shields.io/github/followers/akram-tello?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<!--
-**akram-tello/akram-tello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
