@@ -13,8 +13,6 @@
 
 - 🌱 I’m learning **Data Structures and Algorithms.**
 
-- 🎯 I'm learning ** Mi & Li ** 
-
 - 🎯 2021 Goals: Contribute more to **Open Source projects**
 
 - 📫 How to reach me **akramttello@gmail.com**
