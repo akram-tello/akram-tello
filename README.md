@@ -7,9 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[MindImpulse](https://dev.mindimpulse.co/)**
+- 🔭 I’m currently working on **[Pandai](https://pandai.org/)** && **[Flowyteam](https://flowyteam.com/)**
 
-- 🚀 I’m learning the Art of SEO from [yoast seo academy](https://yoast.com/academy/)
+- 🚀 I’m good at the Art of SEO. built many successful good ranking websites.
+
+- 🚀 I’m an OKR Enthusiast.       
 
 - 🌱 I’m learning **Data Structures and Algorithms.**
 
