@@ -15,9 +15,6 @@
 
 - 🚀 I’m an OKR Enthusiast.       
 
-- 🌱 I’m learning **Data Structures and Algorithms.**
-
-- 🎯 2021 Goals: Contribute more to **Open Source projects**
 
 - 📫 How to reach me **akramttello@gmail.com**
 
