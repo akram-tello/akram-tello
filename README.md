@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 📫 My updated  **<a  href="https://akram-tello.github.io/my-profile/">Resume</a>**
+<!-- - 📫 My updated  **<a  href="https://akram-tello.github.io/my-profile/">Resume</a>** -->
 
 - 🔭 I’m currently working on **[Flowyteam](https://flowyteam.com/)**
 
