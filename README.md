@@ -9,7 +9,7 @@
 
 - 📫 My updated  **<a  href="https://akram-tello.github.io/my-profile/">Resume</a>**
 
-- 🔭 I’m currently working on **[Pandai](https://pandai.org/)** && **[Flowyteam](https://flowyteam.com/)**
+- 🔭 I’m currently working on **[Flowyteam](https://flowyteam.com/)**
 
 - 🚀 I’m good at the Art of SEO. built many successful good ranking websites.
 
