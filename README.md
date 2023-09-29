@@ -24,7 +24,7 @@
 <a href = "https://www.linkedin.com/in/akramtello/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<!-- ## Views and Followers
+ ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=akram-tello">
 </a>
